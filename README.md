@@ -1,5 +1,5 @@
-# Lane-Following-System-for-Autonomous-Vehicle-Computer-Vision-ANN-
---- Lane Following System for Autonomous Vehicle with Computer Vision (ANN) ---
+# Lane-Following-System-for-Autonomous-Vehicle-Computer-Vision-PLAN-
+--- Lane Following System for Autonomous Vehicle with Computer Vision (PLAN) ---
 
 I can only share octave codes. You need to create the Unity environment yourself. The model is already trained.
 It starts with the 'start' function.
